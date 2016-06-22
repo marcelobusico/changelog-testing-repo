@@ -1,1 +1,3 @@
 Created feature B file.
+
+Feature B file modified.

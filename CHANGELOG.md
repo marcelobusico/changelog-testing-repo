@@ -1,9 +1,9 @@
 # Change Log
 
-## [Unreleased](https://github.com/marcelobusico/changelog-testing-repo/tree/HEAD)
-
+## [v1.0](https://github.com/marcelobusico/changelog-testing-repo/tree/v1.0) (2016-06-22)
 **Merged pull requests:**
 
+- Release Fix 1 Title [\#4](https://github.com/marcelobusico/changelog-testing-repo/pull/4) ([marcelobusico](https://github.com/marcelobusico))
 - Develop To Master PR Title [\#3](https://github.com/marcelobusico/changelog-testing-repo/pull/3) ([marcelobusico](https://github.com/marcelobusico))
 - Feature B Pull Request Title [\#2](https://github.com/marcelobusico/changelog-testing-repo/pull/2) ([marcelobusico](https://github.com/marcelobusico))
 - Feature A Pull Request Title [\#1](https://github.com/marcelobusico/changelog-testing-repo/pull/1) ([marcelobusico](https://github.com/marcelobusico))

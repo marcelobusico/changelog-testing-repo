@@ -12,6 +12,15 @@ Changelog of Git Changelog Command Line.
 
 
 ## v2.0
+### GitHub [#6](https://github.com/marcelobusico/changelog-testing-repo/pull/6) Feature C Pull Request Title
+
+**Merge pull request #6 from marcelobusico/feature-c**
+
+ * Feature C Pull Request Title 
+
+[cdcdd2bda6c9758](https://github.com/tomasbjerre/git-changelog-command-line/commit/cdcdd2bda6c9758) Marcelo Busico *2016-06-22 14:37:34*
+
+
 ### No issue
 
 **Created feature C File**
@@ -21,6 +30,42 @@ Changelog of Git Changelog Command Line.
 
 
 ## v2.0-begin
+### GitHub [#1](https://github.com/marcelobusico/changelog-testing-repo/pull/1) Feature A Pull Request Title
+
+**Merge pull request #1 from marcelobusico/feature-a**
+
+ * Feature A Pull Request Title 
+
+[8133b41534c3c1f](https://github.com/tomasbjerre/git-changelog-command-line/commit/8133b41534c3c1f) Marcelo Busico *2016-06-22 13:33:50*
+
+
+### GitHub [#2](https://github.com/marcelobusico/changelog-testing-repo/pull/2) Feature B Pull Request Title
+
+**Merge pull request #2 from marcelobusico/feature-b**
+
+ * Feature B Pull Request Title 
+
+[3f7662c6b5cfbe0](https://github.com/tomasbjerre/git-changelog-command-line/commit/3f7662c6b5cfbe0) Marcelo Busico *2016-06-22 13:33:41*
+
+
+### GitHub [#3](https://github.com/marcelobusico/changelog-testing-repo/pull/3) Develop To Master PR Title
+
+**Merge pull request #3 from marcelobusico/develop**
+
+ * Develop To Master PR Title 
+
+[7b02d0f216e0676](https://github.com/tomasbjerre/git-changelog-command-line/commit/7b02d0f216e0676) Marcelo Busico *2016-06-22 13:35:53*
+
+
+### GitHub [#5](https://github.com/marcelobusico/changelog-testing-repo/pull/5) Merge Back from Release to Master Branch Title
+
+**Merge pull request #5 from marcelobusico/release_branch**
+
+ * Merge Back from Release to Master Branch Title 
+
+[fe2b8b56af3f602](https://github.com/tomasbjerre/git-changelog-command-line/commit/fe2b8b56af3f602) Marcelo Busico *2016-06-22 14:35:40*
+
+
 ### No issue
 
 **Changelog for release branch**
@@ -75,6 +120,24 @@ Changelog of Git Changelog Command Line.
 
 
 ## v1.0
+### GitHub [#4](https://github.com/marcelobusico/changelog-testing-repo/pull/4) Release Fix 1 Title
+
+**Merge pull request #4 from marcelobusico/release-fix-1**
+
+ * Release Fix 1 Title 
+
+[c624b353f6ee3aa](https://github.com/tomasbjerre/git-changelog-command-line/commit/c624b353f6ee3aa) Marcelo Busico *2016-06-22 13:57:42*
+
+
+### Jira fix-1 
+
+**Merge pull request #4 from marcelobusico/release-fix-1**
+
+ * Release Fix 1 Title 
+
+[c624b353f6ee3aa](https://github.com/tomasbjerre/git-changelog-command-line/commit/c624b353f6ee3aa) Marcelo Busico *2016-06-22 13:57:42*
+
+
 ### No issue
 
 **Release Fix 1**

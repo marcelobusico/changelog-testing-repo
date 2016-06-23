@@ -1,8 +1,7 @@
 # Change Log
 
-## [Unreleased](https://github.com/marcelobusico/changelog-testing-repo/tree/HEAD)
-
-[Full Changelog](https://github.com/marcelobusico/changelog-testing-repo/compare/v2.0...HEAD)
+## [v2.0.1](https://github.com/marcelobusico/changelog-testing-repo/tree/v2.0.1) (2016-06-23)
+[Full Changelog](https://github.com/marcelobusico/changelog-testing-repo/compare/v2.0...v2.0.1)
 
 **Merged pull requests:**
 

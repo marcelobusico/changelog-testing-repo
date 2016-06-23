@@ -1,0 +1,76 @@
+# Git Changelog Command Line changelog
+
+Changelog of Git Changelog Command Line.
+
+## v2.0
+### No issue
+
+**Created feature C File**
+
+
+[aea90e2866083a7](https://github.com/tomasbjerre/git-changelog-command-line/commit/aea90e2866083a7) Marcelo Busico *2016-06-22 14:36:59*
+
+
+## v2.0-begin
+### No issue
+
+**Changelog for release branch**
+
+
+[81221ac2b62e66c](https://github.com/tomasbjerre/git-changelog-command-line/commit/81221ac2b62e66c) Marcelo Busico *2016-06-22 14:02:17*
+
+**Changelog with github changelog generator**
+
+
+[e4a6caaf5a8ab54](https://github.com/tomasbjerre/git-changelog-command-line/commit/e4a6caaf5a8ab54) Marcelo Busico *2016-06-22 13:54:14*
+
+**Another modification in file1 in develop**
+
+
+[8864698b701c5ca](https://github.com/tomasbjerre/git-changelog-command-line/commit/8864698b701c5ca) Marcelo Busico *2016-06-22 13:31:59*
+
+**Feature B file modified**
+
+
+[61543b2dfa766f7](https://github.com/tomasbjerre/git-changelog-command-line/commit/61543b2dfa766f7) Marcelo Busico *2016-06-22 13:31:04*
+
+**Feature B file created**
+
+
+[386536ccd109045](https://github.com/tomasbjerre/git-changelog-command-line/commit/386536ccd109045) Marcelo Busico *2016-06-22 13:30:30*
+
+**Feature A file modified**
+
+
+[88063f034d57d1b](https://github.com/tomasbjerre/git-changelog-command-line/commit/88063f034d57d1b) Marcelo Busico *2016-06-22 13:29:16*
+
+**Feature A file created**
+
+
+[3be13845b02e15e](https://github.com/tomasbjerre/git-changelog-command-line/commit/3be13845b02e15e) Marcelo Busico *2016-06-22 13:28:40*
+
+**File modified in develop branch**
+
+
+[1dfb4a16a27689d](https://github.com/tomasbjerre/git-changelog-command-line/commit/1dfb4a16a27689d) Marcelo Busico *2016-06-22 13:27:23*
+
+**File created in develop branch**
+
+
+[9899113a8e88edc](https://github.com/tomasbjerre/git-changelog-command-line/commit/9899113a8e88edc) Marcelo Busico *2016-06-22 13:27:02*
+
+**Create README.md**
+
+
+[bf7f706db70f6bd](https://github.com/tomasbjerre/git-changelog-command-line/commit/bf7f706db70f6bd) Marcelo Busico *2016-06-22 13:24:07*
+
+
+## v1.0
+### No issue
+
+**Release Fix 1**
+
+
+[a9ca73b5ec433d5](https://github.com/tomasbjerre/git-changelog-command-line/commit/a9ca73b5ec433d5) Marcelo Busico *2016-06-22 13:56:59*
+
+

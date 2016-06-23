@@ -1,9 +1,21 @@
 # Change Log
 
 ## [v2.0.1](https://github.com/marcelobusico/changelog-testing-repo/tree/v2.0.1) (2016-06-23)
+[Full Changelog](https://github.com/marcelobusico/changelog-testing-repo/compare/v2.0-begin...v2.0.1)
+
 **Merged pull requests:**
 
 - Release 2.0 - Fix 1 - PR Title [\#7](https://github.com/marcelobusico/changelog-testing-repo/pull/7) ([marcelobusico](https://github.com/marcelobusico))
+- Feature C Pull Request Title [\#6](https://github.com/marcelobusico/changelog-testing-repo/pull/6) ([marcelobusico](https://github.com/marcelobusico))
+
+## [v2.0-begin](https://github.com/marcelobusico/changelog-testing-repo/tree/v2.0-begin) (2016-06-22)
+**Merged pull requests:**
+
+- Merge Back from Release to Master Branch Title [\#5](https://github.com/marcelobusico/changelog-testing-repo/pull/5) ([marcelobusico](https://github.com/marcelobusico))
+- Release Fix 1 Title [\#4](https://github.com/marcelobusico/changelog-testing-repo/pull/4) ([marcelobusico](https://github.com/marcelobusico))
+- Develop To Master PR Title [\#3](https://github.com/marcelobusico/changelog-testing-repo/pull/3) ([marcelobusico](https://github.com/marcelobusico))
+- Feature B Pull Request Title [\#2](https://github.com/marcelobusico/changelog-testing-repo/pull/2) ([marcelobusico](https://github.com/marcelobusico))
+- Feature A Pull Request Title [\#1](https://github.com/marcelobusico/changelog-testing-repo/pull/1) ([marcelobusico](https://github.com/marcelobusico))
 
 
 

@@ -1,6 +1,7 @@
 # Change Log
 
-## Version v2.0.2:
+## [v2.0.2](https://github.com/marcelobusico/changelog-testing-repo/tree/v2.0.2) (2016-06-23T18:20:33Z):
+[Full Changelog](https://github.com/marcelobusico/changelog-testing-repo/compare/v1.0...v2.0.2)
 
 **Merged Pull Requests:**
 

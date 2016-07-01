@@ -1,0 +1,16 @@
+{
+    "mappings": [
+	{
+	    "label": "bug",
+	    "title": "Bug fixes"
+	},
+	{
+	    "label": "enhancement",
+	    "title": "Enhancements"
+	},
+	{
+	    "label": "GENERIC_LABEL",
+	    "title": "Merged Pull Requests"
+	}
+    ]
+}
